@@ -2,7 +2,7 @@
 <br>
 I created this GET/POST request website using bootstrap and Pure JavaScript.
 <br>
-<p>Here you find my page: <a href="https://anoushka-ghosh.github.io/GET-or-POST_Request_Website/" target="_blank"></a></p>
+<p>Here you find my page: <a href="https://anoushka-ghosh.github.io/GET-or-POST_Request_Website/" target="_blank">https://anoushka-ghosh.github.io/GET-or-POST_Request_Website/</a></p>
 <br>
 
 ## Laptop View

@@ -7,8 +7,7 @@ Here you find my page: https://anoushka-ghosh.github.io/GET-POST_Request_Website
 
 
 ## Laptop View
-https://user-images.githubusercontent.com/56183187/125581057-0279e553-1b5e-4efc-997f-124c96704d80.jpg
-
+![IMG_20210714_125701](https://user-images.githubusercontent.com/56183187/125583217-2e1b971f-95c4-4d02-89bc-aa65d0ff21dd.jpg)
 ## Mobile view
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56183187/125582704-4bb64a67-c74c-4bc0-93c0-babd0441cc70.jpg" width="350" title="hover text">
